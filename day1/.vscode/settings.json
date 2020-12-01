@@ -1,0 +1,6 @@
+{
+    "deno.enable": true,
+    "deno.lint": true, // inline deno lint diagnostics, requires `deno.unstable`
+    "deno.unstable": true,
+    "debug.javascript.usePreview": false
+}
